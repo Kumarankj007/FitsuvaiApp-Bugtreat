@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "FQ79XGS8Q8.com.fitsuvai",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "FQ79XGS8Q8.com.fitsuvai"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "FQ79XGS8Q8.com.fitsuvai"
+    ]
+  }
+}
